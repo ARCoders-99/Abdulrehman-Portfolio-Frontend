@@ -1,76 +1,124 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+  <a href="https://ar-portfolio-coder.netlify.app/" target="_blank">Abdulrehman Portfolio</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
 
 <br/>
 
 <center>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)  
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 
 </center>
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/ARCoders-99/Abdulrehman-Portfolio-Frontend/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/ARCoders-99/Abdulrehman-Portfolio-Frontend/issues">Request Feature</a>
 </h3>
 
-## TL;DR
+---
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+## 📌 About The Project
 
-## Built With
+This is my **personal portfolio website** where I showcase my projects, technical skills, and resume as a **Frontend / MERN Stack Developer**.
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+The website highlights my development work and provides an easy way for recruiters and clients to view my projects and contact me.
 
-This project was built using these technologies.
+---
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+## 🚀 Built With
 
-## Features
+This project was built using the following technologies:
 
-**📖 Multi-Page Layout**
+* React.js
+* JavaScript
+* CSS3
+* Bootstrap
+* VS Code
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+---
 
-**📱 Fully Responsive**
+## ✨ Features
 
-## Getting Started
+* 📖 Multi-Page Portfolio Layout
+* 🎨 Modern UI Design
+* 📱 Fully Responsive for all devices
+* 💼 Projects Showcase Section
+* 📄 Resume Section
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+---
 
-## 🛠 Installation and Setup Instructions
+## ⚙️ Getting Started
 
-1. Installation: `npm install`
+To run this project locally, you need **Node.js** and **Git** installed on your system.
 
-2. In the project directory, you can run: `npm start`
+### Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+1. Clone the repository
 
-## Usage Instructions
+```
+git clone https://github.com/ARCoders-99/Abdulrehman-Portfolio-Frontend.git
+```
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+2. Navigate to the project folder
 
-### Show your support
+```
+cd Abdulrehman-Portfolio-Frontend
+```
 
-Give a ⭐ if you like this website!
+3. Install dependencies
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+```
+npm install
+```
+
+---
+
+## ▶️ Run the Project
+
+Start the development server:
+
+```
+npm start
+```
+
+Open in browser:
+
+```
+http://localhost:3000
+```
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+components/
+assets/
+public/
+```
+
+All main components and sections of the portfolio can be edited inside the **src/components** folder.
+
+---
+
+## 🌐 Live Website
+
+Visit my portfolio:
+
+https://ar-portfolio-coder.netlify.app/
+
+---
+
+## ⭐ Support
+
+If you like this project, please give it a **star on GitHub** ⭐
+
+---
+
+© 2026 Abdulrehman – Frontend Developer
