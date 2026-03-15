@@ -111,8 +111,8 @@ All main components and sections of the portfolio can be edited inside the **src
 
 Visit my portfolio:
 
-https://ar-portfolio-coder.netlify.app/
-
+[https://ar-portfolio-coder.netlify.app/
+](https://abdulrehman-portfolio-new.netlify.app/)
 ---
 
 ## ⭐ Support
